@@ -6,15 +6,17 @@
 
 [Movie Theater Site](https://github.com/jeffreygumbs/HTML-and-CSS-Projects/tree/main/bootstrap4_project)
 
-*# JavaScript Projects
+### JavaScript Projects
 
 These are some small projects I made using JavaScript.
 
 ## Projects
 
-[Pizza Menu] https://github.com/jeffreygumbs/JavaScript-Projects/tree/main/Basic-JavaScript-Projects/Pizza_Project
-[Tic-Tac-Toe Game] (https://github.com/jeffreygumbs/JavaScript-Projects/tree/main/Basic-JavaScript-Projects/TicTacToe)
-[Calculator] (https://github.com/jeffreygumbs/JavaScript-Projects/tree/main/Basic-JavaScript-Projects/Calculator)
+[Pizza Menu](https://github.com/jeffreygumbs/JavaScript-Projects/tree/main/Basic-JavaScript-Projects/Pizza_Project)
+
+[Tic-Tac-Toe Game](https://github.com/jeffreygumbs/JavaScript-Projects/tree/main/Basic-JavaScript-Projects/TicTacToe)
+
+[Calculator](https://github.com/jeffreygumbs/JavaScript-Projects/tree/main/Basic-JavaScript-Projects/Calculator)
 
 ## Pizza Menu
 
